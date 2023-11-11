@@ -108,6 +108,7 @@ li {
 a {
   color: #ffffff;
   text-decoration: none;
+  font-size: 1rem;
 }
 }
 }
